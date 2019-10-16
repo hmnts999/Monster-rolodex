@@ -11,6 +11,7 @@ const Scroll = props => {
 		>
 			{props.children}
 			<div>Hey</div>
+			<div>hello</div>
 		</div>
 	);
 };
