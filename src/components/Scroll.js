@@ -10,6 +10,7 @@ const Scroll = props => {
 			}}
 		>
 			{props.children}
+			<div>Hey</div>
 		</div>
 	);
 };
